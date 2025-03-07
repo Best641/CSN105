@@ -14,3 +14,8 @@ this is my first repository
 <ins>underline</ins>
 
 >   This is a quote
+
+```
+This is for code example
+code looks like this 
+```
